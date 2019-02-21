@@ -1,0 +1,13 @@
+.button{
+	background-color: white;
+	border: 1px solid gray;
+	border-radius: 5px;
+	text-align: center;
+	padding: 2px;
+}
+.a:hover {
+	position: relative;
+	bottom: 2px;
+	right: : 2px;
+	box-shadow: 3px 2px 8px #888888;
+}
